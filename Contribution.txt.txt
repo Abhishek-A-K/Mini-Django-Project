@@ -1,0 +1,8 @@
+ABHISHEK A K
+
+EMS PROJECT :- A Fully Fledged Employee Management System Based on Django Web Framework and Database,to Handle Employee Data,
+Timesheet Data, Appraisal Data, and Get realtime Reports of all types of data entered and some filtered report features
+
+Contribution :- I worked on creating complete structure of Project like Models,Defining Functions,URLS,specially creating
+Admin, and his Authentication Function,its corrosponding model and HTML file, along with some Report showing Functions 
+and front end tasks of creating required HTML and CSS Files.
